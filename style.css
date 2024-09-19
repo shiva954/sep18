@@ -1,0 +1,176 @@
+
+.parent{
+  display: flex;
+  justify-content: space-between;
+   background-color: rgba(0, 0, 0, 00);
+   align-items: center;
+   list-style: none;
+}
+img{
+  width: 200;
+}
+h1{
+
+  justify-content: space-between;
+  
+}
+input{
+  border: 0;
+  outline: 0 none;
+  font-size: 17px;
+  height: 40px;
+  flex: 2.5;
+  background-color: aliceblue;
+} 
+
+nav{
+  display: flex;
+  flex:2;
+  justify-content:space-around;
+}
+.simple{
+  display: flex;
+  justify-content: space-around;
+  background-color: whitesmoke;
+  text-align:center;
+}
+
+
+.card{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  justify-items: center;
+  
+}
+.div1{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+
+}
+.div1:hover{
+  transform: translate(20px);
+}
+.div2{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+
+}
+.div2:hover{
+  transform: scaleX(2);
+}
+.div3{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+}
+.div3:hover{
+  transform: scaley(2);
+}
+.div4{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+transition: ease;
+}
+.div4:hover{
+  transform: rotate(170deg);
+}
+.div5{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+}
+.div5:hover{
+  transform: skew(40deg);
+}
+.div6{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+}
+.div6:hover{
+  transform: skewy(20deg);
+}
+.div7{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+}
+.div7:hover{
+  transform: translate(20px,35px);
+}
+.div8{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+
+}
+.div8:hover{
+  transform: rotateX(240deg);
+}
+.div9{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+
+}
+.div9:hover{
+  transform: scale(2,5);
+}
+.div10{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+}
+.div10:hover{
+  transform: translate(10px,15px);
+}
+.div11{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+}
+.div11:hover{
+  transform: translate(-30px,-22px);
+}
+.div12{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+}
+.div12:hover{
+  transform: skew(80deg);
+}
+.div13{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+}
+.div13:hover{
+  transform: scale(2,4);
+}
+.div14{
+  border: 2px solid black;
+  padding: 15px;
+  margin: 5px;
+text-align: center;
+}
+.div14:hover{
+  transform: skewy(20deg);
+}
